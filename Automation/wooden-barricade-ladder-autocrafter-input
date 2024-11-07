@@ -1,0 +1,20 @@
+[
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 600,
+    "BufferAmount": 0,
+    "MinAmountInInput": 6000,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "wood"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 6,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "rope"
+  }
+]
